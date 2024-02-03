@@ -35,5 +35,4 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=munchedbox23&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Munchedbox GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=munchedbox23&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=munchedbox23&layout=compact&hide=с#)
