@@ -36,7 +36,7 @@
 ### :fire: My Stats :
 
 <div>
-  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=munchedbox23&theme=dark&background=000000&card_width=500" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munchedbox23&layout=compact&hide=с#&card_width=500" />
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=munchedbox23&theme=dark&background=000000" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munchedbox23&layout=compact&hide=с#&card_width=300" />
 </div>
 
