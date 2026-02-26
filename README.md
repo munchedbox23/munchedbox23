@@ -7,8 +7,8 @@
 
 **About me:**
 
-- 👨‍💻 Frontend Developer
-- 👽 I’m currently learning JavaScript, React, TypeScript and Vuejs
+- 👨‍💻 Fullstack Developer
+- 👽 I’m currently learning JavaScript, React, TypeScript, Golang, SQL and more
 - 🤔 I’m interested in web development and new technologies
 - ✈️ I like to travel, learn new things and listen to music.
  
@@ -28,5 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" **alt="Go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" **alt="SQL" width="40" height="40"/>  
 </div>
 
