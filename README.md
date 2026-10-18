@@ -2,7 +2,6 @@
   <h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=b32456&width=335&lines=Hi!+I'm+Egor+Rubtsov" height=60  alt="Typing SVG" /></a>
  </h1>
-<h3 align="left"><img src="https://komarev.com/ghpvc/?username=munchedbox23" alt="Profile Views"></h3>
 </div>
 
 **About me:**
